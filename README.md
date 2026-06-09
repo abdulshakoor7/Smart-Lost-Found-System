@@ -71,6 +71,3 @@ The system utilizes a Decoupled 3-Tier Architecture:
 
   - Abdul Shakoor (@abdulshakoor7) - Full Stack Developer & DevOps
   - Supervised by: Dr. Safi Ullah
-
-
-to your interviewer right now! 🎓🚀🏆
