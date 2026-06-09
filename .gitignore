@@ -1,0 +1,19 @@
+# Ignore Backend junk
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/db.sqlite3
+**/.env
+
+# Ignore Flutter junk
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# Ignore Node junk
+**/node_modules/
+
+# Ignore IDE junk
+**/.idea/
+**/.vscode/
